@@ -1,0 +1,41 @@
+﻿@page
+@model DemoCrudOperations.Pages.EditOrderModel
+@{
+}
+
+<div class="container">
+    <h3>Edit Orders</h3>
+    <hr />
+    <br />
+    <form method="post">
+        <input asp-for="Order.CustomerId" type="hidden" />
+        <input asp-for="Order.OrderId" type="hidden" />
+
+        <input asp-for="Order.Name" type="hidden" />
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="Order.Name"></label>
+                <input asp-for="Order.Name" class="form-control" />
+                <span class="alert-danger" asp-validation-for="Order.Name"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="Order.Price"></label>
+                <input asp-for="Order.Price" class="form-control" />
+                <span class="alert-danger" asp-validation-for="Order.Price"></span>
+            </div>
+        </div>
+        <br />
+
+        <div class="row">
+            <div class="col-md-4">
+                <input type="submit" value="Save" class="btn btn-primary" />
+                <a class="btn btn-default" href="/allcustomer">Cancel</a>
+            </div>
+        </div>
+    </form>
+</div>
+@section scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

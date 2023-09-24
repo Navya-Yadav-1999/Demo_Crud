@@ -1,0 +1,34 @@
+﻿@page
+@using DemoCrudOperations.Model
+@model OrderModel
+
+
+<div class="container">
+    <h3>Add Order</h3>
+    <hr />
+    <br />
+    <form method="post">
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="Orders.Name"></label>
+                <input asp-for="Orders.Name" class="form-control" />
+                <span class="alert-danger" asp-validation-for="Orders.Name"></span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label asp-for="Orders.Price"></label>
+                <input asp-for="Orders.Price" class="form-control" />
+                <span class="alert-danger" asp-validation-for="Orders.Price"></span>
+            </div>
+        </div>
+       
+        <br />
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a class="btn btn-default" href="/allcustomer">Cancel</a>
+    </form>
+</div>
+
+@section scripts{
+    <partial name="_ValidationScriptsPartial" />
+}

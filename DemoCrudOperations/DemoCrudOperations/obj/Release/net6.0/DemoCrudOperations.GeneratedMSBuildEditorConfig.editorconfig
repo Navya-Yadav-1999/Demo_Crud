@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DemoCrudOperations
+build_property.RootNamespace = DemoCrudOperations
+build_property.ProjectDir = C:\Users\nkolli\Downloads\DemoCrudOperations\DemoCrudOperations\DemoCrudOperations\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nkolli\Downloads\DemoCrudOperations\DemoCrudOperations\DemoCrudOperations
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/Customer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3VzdG9tZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/EditOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE9yZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/GetCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2V0Q3VzdG9tZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/GetOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2V0T3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/DemoCrudOperations/DemoCrudOperations/DemoCrudOperations/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qgyztz1a1w

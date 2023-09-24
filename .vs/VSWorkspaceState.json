@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DemoCrudOperations",
+    "\\DemoCrudOperations\\DemoCrudOperations",
+    "\\DemoCrudOperations\\DemoCrudOperations\\Model",
+    "\\DemoCrudOperations\\DemoCrudOperations\\Pages",
+    "\\DemoCrudOperations\\DemoCrudOperations\\Pages\\Shared"
+  ],
+  "SelectedNode": "\\DemoCrudOperations\\DemoCrudOperations\\Pages\\Customer.cshtml.cs",
+  "PreviewInSolutionExplorer": false
+}
